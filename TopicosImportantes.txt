@@ -1,0 +1,4 @@
+- Implementação do Pipeline do Mediator - 85 
+		Implementação para que o mediator crie um Pipeline pra sempre chamar o Mediator 
+		antes de cada Handle
+	
